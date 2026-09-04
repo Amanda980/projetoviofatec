@@ -96,7 +96,7 @@ function Login() {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          Vio - Testando uma alteração
+          Vio - 4DSM_2026
         </Typography>
         <Box
           component="form"
